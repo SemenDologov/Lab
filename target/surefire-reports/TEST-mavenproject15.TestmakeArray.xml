@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="mavenproject15.TestmakeArray" time="0.005" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="mavenproject15.TestmakeArray" time="0.021" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="17.0.1+12"/>
     <property name="sun.boot.library.path" value="/home/symon/Downloads/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.1.v20211116-1657/jre/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/home/symon/eclipse-workspace/mavenproject15"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/symon/git/Lab"/>
     <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="java.vendor.url" value="https://adoptium.net/"/>
     <property name="path.separator" value=":"/>
@@ -13,7 +13,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/symon/eclipse-workspace/mavenproject15"/>
+    <property name="user.dir" value="/home/symon/git/Lab"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="17.0.1+12"/>
     <property name="os.arch" value="amd64"/>
@@ -22,7 +22,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Linux"/>
-    <property name="classworlds.conf" value="/home/symon/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf13376955311569716433.tmp"/>
+    <property name="classworlds.conf" value="/home/symon/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf4833307936817050277.tmp"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
     <property name="jdk.debug" value="release"/>
@@ -47,7 +47,7 @@
     <property name="native.encoding" value="UTF-8"/>
     <property name="securerandom.source" value="file:/dev/./urandom"/>
     <property name="java.vendor" value="Eclipse Adoptium"/>
-    <property name="maven.home" value="/home/symon/eclipse-workspace/mavenproject15/EMBEDDED"/>
+    <property name="maven.home" value="/home/symon/git/Lab/EMBEDDED"/>
     <property name="file.separator" value="/"/>
     <property name="java.version.date" value="2021-10-19"/>
     <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
@@ -55,6 +55,6 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="java.vendor.version" value="Temurin-17.0.1+12"/>
   </properties>
-  <testcase classname="mavenproject15.TestmakeArray" name="testIsNull" time="0.003"/>
-  <testcase classname="mavenproject15.TestmakeArray" name="testLength" time="0.002"/>
+  <testcase classname="mavenproject15.TestmakeArray" name="testIsNull" time="0.021"/>
+  <testcase classname="mavenproject15.TestmakeArray" name="testLength" time="0"/>
 </testsuite>
